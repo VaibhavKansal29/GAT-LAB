@@ -33,3 +33,15 @@
 - VIVA-1
 
 - VIVA-2
+
+--------------------------------------------------------------------
+
+**NAME**: Vaibhav Kansal
+
+**SAP ID**: 500061579
+
+**ROLL NO**: R100217086
+
+**BRANCH**: CSE-OSS
+
+**SUBJECT**: Computer Graphics Lab File
