@@ -20,6 +20,8 @@
 
 - EXP-8
 
+  > Blender File Link: https://drive.google.com/file/d/1q_twUWJ95EkANIIy3X8fzyfal-Tn10bV/view?usp=sharing 
+
 - EXP-9
 
 - EXP-10
