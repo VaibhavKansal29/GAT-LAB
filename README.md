@@ -27,6 +27,8 @@
 - EXP-10
 
 - PROJECT
+  
+  > Blender File Link: https://drive.google.com/file/d/1e_xBa87x9_DFt-AEOSm-4mFWsFHjSu_m/view?usp=sharing
 
 - VIVA-1
 
